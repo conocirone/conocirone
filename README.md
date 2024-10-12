@@ -1,12 +1,5 @@
 <h1 align="center">Hi there 👋,  I'm Cono</h1>
-<p>I'm a final-year undergraduate student pursuing a Bachelor's degree in Computer Science. Currently, I'm gaining valuable experience through an internship in Computer Vision at the Biometric System Laboratory. My academic interests are diverse, as my current coursework includes:</p>
-        <ul>
-            <li>Cybersecurity</li>
-            <li>Mobile Application Development</li>
-            <li>Theoretical Computer Science</li>
-            <li>Business Strategy</li>
-        </ul>
-
+<p>I'm a first-year Master's student in Artificial Intelligence, with a Bachelor's degree in Computer Science. During my undergraduate studies, I gained valuable experience by working with the Biometric System Laboratory at the University of Bologna, focusing on Computer Vision. While my academic interests are broad, I've recently decided to focus more on AI.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cono-cirone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cono-cirone" height="30" width="40" /></a>
